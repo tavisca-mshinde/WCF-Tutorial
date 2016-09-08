@@ -1,0 +1,8 @@
+D:\WCF Training\WebHttpBindingExample\ConsoleWebHttpBindingExample\bin\Debug\ConsoleWebHttpBindingExample.exe.config
+D:\WCF Training\WebHttpBindingExample\ConsoleWebHttpBindingExample\bin\Debug\ConsoleWebHttpBindingExample.exe
+D:\WCF Training\WebHttpBindingExample\ConsoleWebHttpBindingExample\bin\Debug\ConsoleWebHttpBindingExample.pdb
+D:\WCF Training\WebHttpBindingExample\ConsoleWebHttpBindingExample\bin\Debug\WebHttpBindingExample.dll
+D:\WCF Training\WebHttpBindingExample\ConsoleWebHttpBindingExample\bin\Debug\WebHttpBindingExample.pdb
+D:\WCF Training\WebHttpBindingExample\ConsoleWebHttpBindingExample\obj\Debug\ConsoleWebHttpBindingExample.csprojResolveAssemblyReference.cache
+D:\WCF Training\WebHttpBindingExample\ConsoleWebHttpBindingExample\obj\Debug\ConsoleWebHttpBindingExample.exe
+D:\WCF Training\WebHttpBindingExample\ConsoleWebHttpBindingExample\obj\Debug\ConsoleWebHttpBindingExample.pdb

@@ -1,0 +1,6 @@
+D:\WCF Training\EmployeeWCFClientsolution\EmployeeWCFClient\bin\Debug\EmployeeWCFClient.exe.config
+D:\WCF Training\EmployeeWCFClientsolution\EmployeeWCFClient\bin\Debug\EmployeeWCFClient.exe
+D:\WCF Training\EmployeeWCFClientsolution\EmployeeWCFClient\bin\Debug\EmployeeWCFClient.pdb
+D:\WCF Training\EmployeeWCFClientsolution\EmployeeWCFClient\obj\Debug\EmployeeWCFClient.csprojResolveAssemblyReference.cache
+D:\WCF Training\EmployeeWCFClientsolution\EmployeeWCFClient\obj\Debug\EmployeeWCFClient.exe
+D:\WCF Training\EmployeeWCFClientsolution\EmployeeWCFClient\obj\Debug\EmployeeWCFClient.pdb

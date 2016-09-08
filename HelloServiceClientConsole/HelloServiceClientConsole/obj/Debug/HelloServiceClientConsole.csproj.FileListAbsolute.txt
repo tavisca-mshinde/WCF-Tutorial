@@ -1,0 +1,6 @@
+D:\WCF Training\HelloServiceClientConsole\HelloServiceClientConsole\bin\Debug\HelloServiceClientConsole.exe.config
+D:\WCF Training\HelloServiceClientConsole\HelloServiceClientConsole\bin\Debug\HelloServiceClientConsole.exe
+D:\WCF Training\HelloServiceClientConsole\HelloServiceClientConsole\bin\Debug\HelloServiceClientConsole.pdb
+D:\WCF Training\HelloServiceClientConsole\HelloServiceClientConsole\obj\Debug\HelloServiceClientConsole.csprojResolveAssemblyReference.cache
+D:\WCF Training\HelloServiceClientConsole\HelloServiceClientConsole\obj\Debug\HelloServiceClientConsole.exe
+D:\WCF Training\HelloServiceClientConsole\HelloServiceClientConsole\obj\Debug\HelloServiceClientConsole.pdb

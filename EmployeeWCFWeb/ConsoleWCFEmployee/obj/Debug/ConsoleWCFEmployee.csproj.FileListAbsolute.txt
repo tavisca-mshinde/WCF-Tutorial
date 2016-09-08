@@ -1,0 +1,8 @@
+D:\WCF Training\EmployeeWCFWeb\ConsoleWCFEmployee\bin\Debug\ConsoleWCFEmployee.exe.config
+D:\WCF Training\EmployeeWCFWeb\ConsoleWCFEmployee\bin\Debug\ConsoleWCFEmployee.exe
+D:\WCF Training\EmployeeWCFWeb\ConsoleWCFEmployee\bin\Debug\ConsoleWCFEmployee.pdb
+D:\WCF Training\EmployeeWCFWeb\ConsoleWCFEmployee\bin\Debug\WCFEmployee.dll
+D:\WCF Training\EmployeeWCFWeb\ConsoleWCFEmployee\bin\Debug\WCFEmployee.pdb
+D:\WCF Training\EmployeeWCFWeb\ConsoleWCFEmployee\obj\Debug\ConsoleWCFEmployee.csprojResolveAssemblyReference.cache
+D:\WCF Training\EmployeeWCFWeb\ConsoleWCFEmployee\obj\Debug\ConsoleWCFEmployee.exe
+D:\WCF Training\EmployeeWCFWeb\ConsoleWCFEmployee\obj\Debug\ConsoleWCFEmployee.pdb

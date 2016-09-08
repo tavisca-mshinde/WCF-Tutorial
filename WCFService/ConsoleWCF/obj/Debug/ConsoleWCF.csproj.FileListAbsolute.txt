@@ -1,0 +1,8 @@
+D:\WCF Training\WCFService\ConsoleWCF\bin\Debug\ConsoleWCF.exe.config
+D:\WCF Training\WCFService\ConsoleWCF\bin\Debug\ConsoleWCF.exe
+D:\WCF Training\WCFService\ConsoleWCF\bin\Debug\ConsoleWCF.pdb
+D:\WCF Training\WCFService\ConsoleWCF\obj\Debug\ConsoleWCF.csprojResolveAssemblyReference.cache
+D:\WCF Training\WCFService\ConsoleWCF\obj\Debug\ConsoleWCF.exe
+D:\WCF Training\WCFService\ConsoleWCF\obj\Debug\ConsoleWCF.pdb
+D:\WCF Training\WCFService\ConsoleWCF\bin\Debug\WCFService.dll
+D:\WCF Training\WCFService\ConsoleWCF\bin\Debug\WCFService.pdb
