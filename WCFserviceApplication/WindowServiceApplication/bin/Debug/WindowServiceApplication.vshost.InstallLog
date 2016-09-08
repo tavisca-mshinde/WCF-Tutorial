@@ -1,0 +1,72 @@
+﻿Installing assembly 'D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.vshost.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.vshost.InstallLog
+   assemblypath = D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.vshost.exe
+   logtoconsole = 
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.vshost.exe assembly.
+Committing assembly 'D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.vshost.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.vshost.InstallLog
+   assemblypath = D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.vshost.exe
+   logtoconsole = 
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.vshost.exe assembly.
+Remove InstallState file because there are no installers.
+Installing assembly 'D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.vshost.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.vshost.InstallLog
+   assemblypath = D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.vshost.exe
+   logtoconsole = 
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.vshost.exe assembly.
+Committing assembly 'D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.vshost.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.vshost.InstallLog
+   assemblypath = D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.vshost.exe
+   logtoconsole = 
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.vshost.exe assembly.
+Remove InstallState file because there are no installers.
+Installing assembly 'D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.vshost.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.vshost.InstallLog
+   assemblypath = D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.vshost.exe
+   logtoconsole = 
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.vshost.exe assembly.
+Committing assembly 'D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.vshost.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.vshost.InstallLog
+   assemblypath = D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.vshost.exe
+   logtoconsole = 
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.vshost.exe assembly.
+Remove InstallState file because there are no installers.
+Uninstalling assembly 'D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.vshost.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.vshost.InstallLog
+   assemblypath = D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.vshost.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.vshost.exe assembly.
+Installing assembly 'D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.vshost.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.vshost.InstallLog
+   assemblypath = D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.vshost.exe
+   logtoconsole = 
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.vshost.exe assembly.
+Committing assembly 'D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.vshost.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.vshost.InstallLog
+   assemblypath = D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.vshost.exe
+   logtoconsole = 
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.vshost.exe assembly.
+Remove InstallState file because there are no installers.
+Uninstalling assembly 'D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.vshost.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.vshost.InstallLog
+   assemblypath = D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.vshost.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.vshost.exe assembly.

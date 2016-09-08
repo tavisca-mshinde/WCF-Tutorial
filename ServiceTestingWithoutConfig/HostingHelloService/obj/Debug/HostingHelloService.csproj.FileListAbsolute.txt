@@ -1,0 +1,11 @@
+D:\WCF Training\ServiceTesting\HostingHelloService\obj\Debug\HostingHelloService.csprojResolveAssemblyReference.cache
+D:\WCF Training\ServiceTesting\HostingHelloService\bin\Debug\HostingHelloService.exe.config
+D:\WCF Training\ServiceTesting\HostingHelloService\bin\Debug\HostingHelloService.exe
+D:\WCF Training\ServiceTesting\HostingHelloService\bin\Debug\HostingHelloService.pdb
+D:\WCF Training\ServiceTesting\HostingHelloService\bin\Debug\ServiceTesting.dll
+D:\WCF Training\ServiceTesting\HostingHelloService\bin\Debug\ServiceTesting.pdb
+D:\WCF Training\ServiceTesting\HostingHelloService\obj\Debug\HostingHelloService.exe
+D:\WCF Training\ServiceTesting\HostingHelloService\obj\Debug\HostingHelloService.pdb
+D:\WCF Training\ServiceTestingWithoutConfig\HostingHelloService\bin\Debug\HostingHelloService.exe.config
+D:\WCF Training\ServiceTestingWithoutConfig\HostingHelloService\obj\Debug\HostingHelloService.exe
+D:\WCF Training\ServiceTestingWithoutConfig\HostingHelloService\obj\Debug\HostingHelloService.pdb

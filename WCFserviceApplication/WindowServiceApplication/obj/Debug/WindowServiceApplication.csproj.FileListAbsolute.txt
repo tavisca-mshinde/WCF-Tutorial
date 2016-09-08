@@ -1,0 +1,10 @@
+D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.exe.config
+D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.exe
+D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.pdb
+D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\EmployeeService.dll
+D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\EmployeeService.pdb
+D:\WCF Training\WCFserviceApplication\WindowServiceApplication\obj\Debug\WindowServiceApplication.csprojResolveAssemblyReference.cache
+D:\WCF Training\WCFserviceApplication\WindowServiceApplication\obj\Debug\WindowServiceApplication.exe
+D:\WCF Training\WCFserviceApplication\WindowServiceApplication\obj\Debug\WindowServiceApplication.pdb
+D:\WCF Training\WCFserviceApplication\WindowServiceApplication\obj\Debug\WindowServiceApplication.ProjectInstaller.resources
+D:\WCF Training\WCFserviceApplication\WindowServiceApplication\obj\Debug\WindowServiceApplication.csproj.GenerateResource.Cache
