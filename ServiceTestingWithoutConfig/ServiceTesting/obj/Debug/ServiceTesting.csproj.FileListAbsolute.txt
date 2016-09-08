@@ -1,0 +1,5 @@
+D:\WCF Training\ServiceTesting\ServiceTesting\bin\Debug\ServiceTesting.dll
+D:\WCF Training\ServiceTesting\ServiceTesting\bin\Debug\ServiceTesting.pdb
+D:\WCF Training\ServiceTesting\ServiceTesting\obj\Debug\ServiceTesting.csprojResolveAssemblyReference.cache
+D:\WCF Training\ServiceTesting\ServiceTesting\obj\Debug\ServiceTesting.dll
+D:\WCF Training\ServiceTesting\ServiceTesting\obj\Debug\ServiceTesting.pdb

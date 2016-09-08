@@ -1,0 +1,117 @@
+﻿Installing assembly 'D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.InstallLog
+   assemblypath = D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.exe
+   logtoconsole = 
+Installing service Myservice...
+Creating EventLog source Myservice in log Application...
+Rolling back assembly 'D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.InstallLog
+   assemblypath = D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.exe
+   logtoconsole = 
+Restoring event log to previous state for source Myservice.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.InstallLog
+   assemblypath = D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.exe
+   logtoconsole = 
+Installing service Myservice...
+Service Myservice has been successfully installed.
+Creating EventLog source Myservice in log Application...
+Committing assembly 'D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.InstallLog
+   assemblypath = D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.exe
+   logtoconsole = 
+Installing assembly 'D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.InstallLog
+   assemblypath = D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.exe
+   logtoconsole = 
+Installing service Myservice...
+Creating EventLog source Myservice in log Application...
+Rolling back assembly 'D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.InstallLog
+   assemblypath = D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.exe
+   logtoconsole = 
+Restoring event log to previous state for source Myservice.
+Uninstalling assembly 'D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.InstallLog
+   assemblypath = D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.exe
+Removing EventLog source Myservice.
+Service Myservice is being removed from the system...
+Service Myservice was successfully removed from the system.
+Installing assembly 'D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.InstallLog
+   assemblypath = D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.exe
+   logtoconsole = 
+Installing service Myservice...
+Service Myservice has been successfully installed.
+Creating EventLog source Myservice in log Application...
+Committing assembly 'D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.InstallLog
+   assemblypath = D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.InstallLog
+   assemblypath = D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.exe
+Removing EventLog source Myservice.
+Service Myservice is being removed from the system...
+Service Myservice was successfully removed from the system.
+Installing assembly 'D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.InstallLog
+   assemblypath = D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.exe
+   logtoconsole = 
+Installing service Myservice...
+Service Myservice has been successfully installed.
+Creating EventLog source Myservice in log Application...
+Committing assembly 'D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.InstallLog
+   assemblypath = D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.InstallLog
+   assemblypath = D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.exe
+Removing EventLog source Myservice.
+Service Myservice is being removed from the system...
+Service Myservice was successfully removed from the system.
+Installing assembly 'D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.InstallLog
+   assemblypath = D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.exe
+   logtoconsole = 
+Installing service Myservice...
+Service Myservice has been successfully installed.
+Creating EventLog source Myservice in log Application...
+Committing assembly 'D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.InstallLog
+   assemblypath = D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.exe
+   logtoconsole = 

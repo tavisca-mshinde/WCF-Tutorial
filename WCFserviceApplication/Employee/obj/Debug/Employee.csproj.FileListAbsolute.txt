@@ -1,0 +1,5 @@
+D:\WCF Training\WCFserviceApplication\Employee\bin\Debug\EmployeeService.dll
+D:\WCF Training\WCFserviceApplication\Employee\bin\Debug\EmployeeService.pdb
+D:\WCF Training\WCFserviceApplication\Employee\obj\Debug\Employee.csprojResolveAssemblyReference.cache
+D:\WCF Training\WCFserviceApplication\Employee\obj\Debug\EmployeeService.dll
+D:\WCF Training\WCFserviceApplication\Employee\obj\Debug\EmployeeService.pdb
