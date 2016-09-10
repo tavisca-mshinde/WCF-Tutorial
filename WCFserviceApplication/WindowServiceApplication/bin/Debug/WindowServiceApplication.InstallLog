@@ -115,3 +115,69 @@ Affected parameters are:
    logfile = D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.InstallLog
    assemblypath = D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.exe
    logtoconsole = 
+Uninstalling assembly 'D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.InstallLog
+   assemblypath = D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.exe
+Removing EventLog source Myservice.
+Service Myservice is being removed from the system...
+Service Myservice was successfully removed from the system.
+Uninstalling assembly 'D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.InstallLog
+   assemblypath = D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.exe
+Removing EventLog source Myservice.
+Warning: The source Myservice is not registered on the local machine.
+Service Myservice is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.InstallLog
+   assemblypath = D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.exe
+   logtoconsole = 
+Installing service Myservice...
+Service Myservice has been successfully installed.
+Creating EventLog source Myservice in log Application...
+Committing assembly 'D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.InstallLog
+   assemblypath = D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.InstallLog
+   assemblypath = D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.exe
+Removing EventLog source Myservice.
+Service Myservice is being removed from the system...
+Service Myservice was successfully removed from the system.
+Attempt to stop service Myservice.
+Installing assembly 'D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.InstallLog
+   assemblypath = D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.exe
+   logtoconsole = 
+Installing service Myservice...
+Service Myservice has been successfully installed.
+Creating EventLog source Myservice in log Application...
+Committing assembly 'D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.InstallLog
+   assemblypath = D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.InstallLog
+   assemblypath = D:\WCF Training\WCFserviceApplication\WindowServiceApplication\bin\Debug\WindowServiceApplication.exe
+Removing EventLog source Myservice.
+Service Myservice is being removed from the system...
+Service Myservice was successfully removed from the system.
